@@ -1,53 +1,7 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "详细介绍"
-    },
-    {
-      "description": "下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的 Header 和 Footer。\nSmartRefreshLayout 是一个“聪明”或者“智能”的下拉刷新布局，由于它的“智能”，它不只是支持所有的 View，还支持多层嵌套的视图结构。它继承自 ViewGroup 而不是 FrameLayout 或 LinearLayout，提高了性能。 也吸取了现在流行的各种刷新布局的优点，包括谷歌官方的 SwipeRefreshLayout，其他第三方的 Ultra-Pull-To-Refresh、TwinklingRefreshLayout 。还集成了各种炫酷的 Header 和 Footer。\n项目地址：https://github.com/scwang90/SmartRefreshLayout博客地址：https://segmentfault.com/a/1190000010066071",
-      "items": [],
-      "title": "scwang90 / SmartRefreshLayout"
-    },
-    {
-      "description": "VirtualLayout 是一个针对 RecyclerView 的 LayoutManager 扩展, 主要提供一整套布局方案和布局间的组件复用的问题。\n通过定制化的 LayoutManager，接管整个 RecyclerView 的布局逻辑；LayoutManager 管理了一系列 LayoutHelper，LayoutHelper 负责具体布局逻辑实现的地方；每一个 LayoutHelper 负责页面某一个范围内的组件布局；不同的 LayoutHelper 可以做不同的布局逻辑，因此可以在一个 RecyclerView 页面里提供异构的布局结构，这就能比系统自带的 LinearLayoutManager、aridLayoutManager 等提供更加丰富的能力。同时支持扩展 LayoutHelper 来提供更多的布局能力。\n项目地址：https://github.com/alibaba/vlayout",
-      "items": [],
-      "title": "alibaba / vlayout"
-    },
-    {
-      "description": "AndroidPerformanceMonitor（被称作 BlockCanary）是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复。\n取名为 BlockCanary 则是为了向 LeakCanary 致敬，顺便本库的 UI 部分是从 LeakCanary 改来的，之后可能会做一些调整。\n项目地址：https://github.com/markzhai/AndroidPerformanceMonitor中文文档：https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md",
-      "items": [],
-      "title": "markzhai / AndroidPerformanceMonitor"
-    },
-    {
-      "description": "AndroidDevMetrics（原先叫 dagger2metrics）是一个性能检测库，用来检测 Activity 生命周期方法执行性能（onCreate(), onStart(), onResume()）、帧速率性能和 Dagger 2 注入性能。它会告诉你在 app 中需要花多少时间来显示特定的界面，还有（如果你使用了Dagger 2）在依赖图表中提供每个对象消耗了多少时间。它不会告诉你性能问题或瓶颈的确切原因（目前！），但它可以指出你首先应该去查找的地方。\n项目地址：https://github.com/frogermcs/AndroidDevMetrics",
-      "items": [],
-      "title": "frogermcs / AndroidDevMetrics"
-    },
-    {
-      "description": "文字识别一般都用的 Tesseract OCR ，它是由 Google 负责维护，是最好的开源 OCR Engine 之一，并且支持中文。不过因为 Tesseract 使用 C++ 实现的，在 Android 中不能直接使用，需要封装JavaAPI才能在Android平台中进行调用。\ntess-two 是 TesseraToolsForAndroid（tesseract-adroid-tools）的一个分支，它添加了一些额外功能。TesseraToolsForAndroid 包含了 Tesseract OCR 和 Leptonica 图片处理库的一整套 API 和 build 文件。\n项目地址：https://github.com/rmtheis/tess-two",
-      "items": [],
-      "title": "rmtheis / tess-two"
-    },
-    {
-      "description": "Android 自动生成表格框架，支持二维数组展示，导入 Excel 表格，合并单元格等。还有很多功能点，包括动态添加首尾数据，分页，格式化字体，背景等。\n项目地址：https://github.com/huangyanbin/smartTable博客地址：https://juejin.im/post/5a55ae6c5188257350511a8c博客地址2：https://juejin.im/post/5a5dce7651882573256bd043博客地址3：https://juejin.im/post/5a7a8eef5188257a84621eda",
-      "items": [],
-      "title": "huangyanbin / smartTable"
-    },
-    {
-      "description": "Android 通用圆角布局，快速实现圆角需求。可支持包裹任意组件、分别对每一个角设置圆角大小、设置描边宽度等很多方便的可配置属性，可以满足不同需求，功能强大，效果很棒。\n项目地址：https://github.com/GcsSloop/rclayout博客地址：http://www.gcssloop.com/gebug/rclayout",
-      "items": [],
-      "title": "GcsSloop / rclayout"
-    },
-    {
-      "description": "一个用于帮助 Android App 进行组件化改造的框架 —— 支持模块间的路由、通信、解耦。\n项目地址：https://github.com/alibaba/ARouter",
-      "items": [],
-      "title": "alibaba / ARouter"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T07:21:30.617Z",
+    "last_updated": "2026-08-19T07:23:10.611Z",
     "original_repository": "SenhLinsh/Android-Hot-Libraries",
     "original_repository_sha": "251e2f66101e46a9f129f2fa9a7f3ebc4ea11f37",
     "enhanced_repository": "enhansome/enhansome-Android-Hot-Libraries",
