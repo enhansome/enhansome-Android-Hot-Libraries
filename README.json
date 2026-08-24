@@ -1,7 +1,3893 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "注：",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "Loading SmartRefreshLayout 智能下拉刷新框架[详细] 21k 25天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93152223,
+            "language": "Java",
+            "last_commit": "2024-12-04T12:28:17Z",
+            "owner": "scwang90",
+            "repo": "SmartRefreshLayout",
+            "stars": 25125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "Loading Android-PullToRefresh 比较早的一款下拉刷新框架 8.8k 7年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2874001,
+            "language": "Java",
+            "last_commit": "2017-10-13T08:40:58Z",
+            "owner": "chrisbanes",
+            "repo": "Android-PullToRefresh",
+            "stars": 8640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "Loading android-Ultra-Pull-To-Refresh 下拉刷新框架 9.7k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26568234,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:12:24Z",
+            "owner": "liaohuqiu",
+            "repo": "android-Ultra-Pull-To-Refresh",
+            "stars": 9504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "Loading BeautifulRefreshLayout 众多优秀的下拉刷新汇总 2.2k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40238244,
+            "language": "Java",
+            "last_commit": "2016-03-29T04:40:42Z",
+            "owner": "android-cjj",
+            "repo": "BeautifulRefreshLayout",
+            "stars": 2137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "Loading LoadSir 加载反馈页管理框架 2.3k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102183526,
+            "language": "Java",
+            "last_commit": "2020-12-26T03:23:03Z",
+            "owner": "KingJA",
+            "repo": "LoadSir",
+            "stars": 3471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "Loading LoadingView 简单的 Loading 控件 2.5k 10月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61613985,
+            "language": "Java",
+            "last_commit": "2021-12-20T20:23:08Z",
+            "owner": "ldoublem",
+            "repo": "LoadingView",
+            "stars": 2711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图表 MPAndroidChart 统计图表库 31k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19148949,
+            "language": "Java",
+            "last_commit": "2025-06-05T07:06:39Z",
+            "owner": "PhilJay",
+            "repo": "MPAndroidChart",
+            "stars": 38193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图表 hellocharts-android 统计图表库 7k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25114751,
+            "language": "Java",
+            "last_commit": "2021-06-01T03:12:09Z",
+            "owner": "lecho",
+            "repo": "hellocharts-android",
+            "stars": 7570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图表 smartTable 自动生成表格框架[详细] 4.1k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109910389,
+            "language": "Java",
+            "last_commit": "2022-03-11T09:08:26Z",
+            "owner": "huangyanbin",
+            "repo": "smartTable",
+            "stars": 5226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图表 TableView 绘制表格 2.6k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94169028,
+            "language": "Java",
+            "last_commit": "2023-03-17T07:28:39Z",
+            "owner": "evrencoskun",
+            "repo": "TableView",
+            "stars": 3182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图表 excelPanel RecyclerView 实现的二维表格 2.3k 7月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79038108,
+            "language": "Java",
+            "last_commit": "2023-06-14T03:29:17Z",
+            "owner": "zhouchaoyuan",
+            "repo": "excelPanel",
+            "stars": 2408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "菜单 SlidingMenu 比较早的一款侧滑菜单 11k 6年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4839957,
+            "language": "Java",
+            "last_commit": "2021-09-19T14:04:18Z",
+            "owner": "jfeinstein10",
+            "repo": "SlidingMenu",
+            "stars": 10989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "菜单 MaterialDrawer 侧滑菜单 11k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30120110,
+            "language": "Kotlin",
+            "last_commit": "2026-08-17T21:06:47Z",
+            "owner": "mikepenz",
+            "repo": "MaterialDrawer",
+            "stars": 11646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "菜单 SwipeBackLayout 类似QQ侧滑菜单 6k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12353678,
+            "language": "Java",
+            "last_commit": "2019-09-18T06:44:18Z",
+            "owner": "ikew0ng",
+            "repo": "SwipeBackLayout",
+            "stars": 6081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "菜单 BoomMenu 酷炫的弹出式菜单 5.6k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54263833,
+            "language": "Java",
+            "last_commit": "2023-03-12T07:41:43Z",
+            "owner": "Nightonke",
+            "repo": "BoomMenu",
+            "stars": 5779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "日历 CalendarView 高度自定义、支持周视图的日历控件 6.7k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84631679,
+            "language": "Java",
+            "last_commit": "2025-12-04T03:09:32Z",
+            "owner": "huanghaibin-dev",
+            "repo": "CalendarView",
+            "stars": 9394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图片 PhotoView 大图展示 17k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5084750,
+            "language": "Java",
+            "last_commit": "2022-03-25T09:53:49Z",
+            "owner": "Baseflow",
+            "repo": "PhotoView",
+            "stars": 18815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图片 subsampling-scale-image-view 大图展示 6.2k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12384353,
+            "language": "Java",
+            "last_commit": "2024-04-22T02:45:16Z",
+            "owner": "davemorrissey",
+            "repo": "subsampling-scale-image-view",
+            "stars": 8006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图片 CircleImageView 圆形图片 13k 4月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16005410,
+            "language": "Java",
+            "last_commit": "2024-05-03T11:20:49Z",
+            "owner": "hdodenhof",
+            "repo": "CircleImageView",
+            "stars": 14488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图片 uCrop 图片剪裁 10k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49068243,
+            "language": "Java",
+            "last_commit": "2025-08-07T16:51:43Z",
+            "owner": "Yalantis",
+            "repo": "uCrop",
+            "stars": 12081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图片 android-gif-drawable Gif 加载 8.4k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7905539,
+            "language": "Java",
+            "last_commit": "2026-06-23T16:24:35Z",
+            "owner": "koral--",
+            "repo": "android-gif-drawable",
+            "stars": 9646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "图片 Matisse 图片\\视频选择库 11k 8月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88111990,
+            "language": "Java",
+            "last_commit": "2023-05-15T09:55:57Z",
+            "owner": "zhihu",
+            "repo": "Matisse",
+            "stars": 12513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "文本 richeditor-android 富文本编辑器 5k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33134213,
+            "language": "Java",
+            "last_commit": "2024-05-21T09:52:28Z",
+            "owner": "wasabeef",
+            "repo": "richeditor-android",
+            "stars": 6347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "文本 TextSurface 文本动画 2.1k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44141533,
+            "language": "Java",
+            "last_commit": "2021-02-17T01:52:27Z",
+            "owner": "elevenetc",
+            "repo": "TextSurface",
+            "stars": 2358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "弹窗 material-dialogs 可定制化的 Dialog API 18k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 26102180,
+            "language": "Kotlin",
+            "last_commit": "2023-02-06T02:57:13Z",
+            "owner": "afollestad",
+            "repo": "material-dialogs",
+            "stars": 19553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "弹窗 Toasty 定制不一样的 Toast 5.9k 12天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79372587,
+            "language": "Java",
+            "last_commit": "2022-09-28T23:46:04Z",
+            "owner": "GrenderG",
+            "repo": "Toasty",
+            "stars": 6578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "弹窗 DialogUtil Dialog 工具 0.9k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68993882,
+            "language": "Java",
+            "last_commit": "2024-05-30T06:40:13Z",
+            "owner": "hss01248",
+            "repo": "DialogUtil",
+            "stars": 978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "弹窗 android-adDialog 广告弹窗 3k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64736951,
+            "language": "Java",
+            "last_commit": "2016-09-21T01:17:26Z",
+            "owner": "yipianfengye",
+            "repo": "android-adDialog",
+            "stars": 3084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "悬浮窗 FloatWindow 安卓任意界面悬浮窗 3.5k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110701313,
+            "language": "Java",
+            "last_commit": "2021-10-13T09:50:11Z",
+            "owner": "yhaolpz",
+            "repo": "FloatWindow",
+            "stars": 4186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "状态栏 ImmersionBar 沉浸式状态栏和沉浸式导航栏管理 8.5k 10月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88703315,
+            "language": "Java",
+            "last_commit": "2026-08-01T06:32:47Z",
+            "owner": "gyf-dev",
+            "repo": "ImmersionBar",
+            "stars": 11470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "导航 ViewPagerIndicator ViewPager 指示器 10k 7年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2155793,
+            "language": "Java",
+            "last_commit": "2017-11-26T17:13:46Z",
+            "owner": "JakeWharton",
+            "repo": "ViewPagerIndicator",
+            "stars": 10060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "导航 BottomBar 底部导航栏 8.4k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53991171,
+            "language": "Java",
+            "last_commit": "2021-09-16T11:19:06Z",
+            "owner": "roughike",
+            "repo": "BottomBar",
+            "stars": 8352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "导航 FlycoTabLayout TabLayout 库 9.9k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45808756,
+            "language": "Java",
+            "last_commit": "2023-05-28T16:32:48Z",
+            "owner": "H07000223",
+            "repo": "FlycoTabLayout",
+            "stars": 11087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "导航 MagicIndicator ViewPager 指示器框架 7.9k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61980073,
+            "language": "Java",
+            "last_commit": "2024-12-07T07:46:58Z",
+            "owner": "hackware1993",
+            "repo": "MagicIndicator",
+            "stars": 9791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "布局 flexbox-layout Android 弹性 / 流式布局 16k 14天",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 58034548,
+            "language": "Kotlin",
+            "last_commit": "2024-04-22T19:22:36Z",
+            "owner": "google",
+            "repo": "flexbox-layout",
+            "stars": 18303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "布局 AndroidAutoLayout 屏幕适配布局 6.7k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46461070,
+            "language": "Java",
+            "last_commit": "2018-11-26T13:24:38Z",
+            "owner": "hongyangAndroid",
+            "repo": "AndroidAutoLayout",
+            "stars": 6640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "布局 AndroidAutoSize 屏幕适配布局 10k 8天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145098146,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:08:32Z",
+            "owner": "JessYanCoding",
+            "repo": "AndroidAutoSize",
+            "stars": 13729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "布局 FlowLayout 流式布局 5.4k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41539051,
+            "language": "Java",
+            "last_commit": "2019-10-13T14:59:04Z",
+            "owner": "hongyangAndroid",
+            "repo": "FlowLayout",
+            "stars": 5570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "布局 vlayout 整套布局方案和组件复用[详细] 10k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 83285138,
+            "language": "Java",
+            "last_commit": "2021-07-14T04:40:34Z",
+            "owner": "alibaba",
+            "repo": "vlayout",
+            "stars": 10726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "布局 rclayout Android 通用圆角布局 1.9k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105877297,
+            "language": "Java",
+            "last_commit": "2018-11-20T14:05:37Z",
+            "owner": "GcsSloop",
+            "repo": "rclayout",
+            "stars": 1977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "滑动删除 AndroidSwipeLayout 滑动删除 12k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23301468,
+            "language": "Java",
+            "last_commit": "2023-11-10T08:30:13Z",
+            "owner": "daimajia",
+            "repo": "AndroidSwipeLayout",
+            "stars": 12355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "滚动 Android-ObservableScrollView 监听可滚动 View 的滚动事件 9.5k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26363421,
+            "language": "Java",
+            "last_commit": "2021-06-01T03:54:51Z",
+            "owner": "ksoichiro",
+            "repo": "Android-ObservableScrollView",
+            "stars": 9608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "列表 UltimateRecyclerView 功能强大的 RecyclerView 7.2k 2天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29946464,
+            "language": "Java",
+            "last_commit": "2026-02-27T06:53:21Z",
+            "owner": "cymcsg",
+            "repo": "UltimateRecyclerView",
+            "stars": 7170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "选择器 Android-PickerView 仿 iOS 的选择控件 12k 9月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28550872,
+            "language": "Java",
+            "last_commit": "2022-12-30T03:36:03Z",
+            "owner": "Bigkoo",
+            "repo": "Android-PickerView",
+            "stars": 13434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "选择器 AndroidPicker 安卓选择器类库 4.9k 11月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44681400,
+            "language": "Java",
+            "last_commit": "2026-03-21T15:39:07Z",
+            "owner": "gzu-liyujiang",
+            "repo": "AndroidPicker",
+            "stars": 6787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "下拉菜单 DropDownMenu 多条件筛选菜单 3.5k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37904620,
+            "language": "Java",
+            "last_commit": "2022-02-18T09:26:17Z",
+            "owner": "dongjunkun",
+            "repo": "DropDownMenu",
+            "stars": 3559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "轮播图 banner 广告图片轮播控件 10k 3天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56829582,
+            "language": "Java",
+            "last_commit": "2024-01-11T08:41:56Z",
+            "owner": "youth5201314",
+            "repo": "banner",
+            "stars": 13018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "轮播图 Android-ConvenientBanner 通用的广告栏控件 4.7k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28381182,
+            "language": "Java",
+            "last_commit": "2023-10-10T06:15:41Z",
+            "owner": "saiwu-bigkoo",
+            "repo": "Android-ConvenientBanner",
+            "stars": 4741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "WebView AgentWeb 高度封装的 WebView 7.3k 4月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91065402,
+            "language": "Java",
+            "last_commit": "2026-05-11T00:20:05Z",
+            "owner": "Justson",
+            "repo": "AgentWeb",
+            "stars": 9424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "高斯模糊 500px-android-blur 高斯模糊控件 2.6k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32165777,
+            "language": "Java",
+            "last_commit": "2020-04-20T19:19:50Z",
+            "owner": "500px",
+            "repo": "500px-android-blur",
+            "stars": 2688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "高斯模糊 BlurKit-Android 高斯模糊控件 3.2k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72967236,
+            "language": "Java",
+            "last_commit": "2021-04-03T23:18:57Z",
+            "owner": "CameraKit",
+            "repo": "blurkit-android",
+            "stars": 3759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "角标 android-viewbadger 角标 / 徽章 3k 7年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2471372,
+            "language": "Java",
+            "last_commit": "2015-08-28T07:48:08Z",
+            "owner": "jgilfelt",
+            "repo": "android-viewbadger",
+            "stars": 2987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "角标 BGABadgeView-Android 徽章控件 2.4k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38663551,
+            "language": "Java",
+            "last_commit": "2026-07-11T01:01:02Z",
+            "owner": "bingoogolapple",
+            "repo": "BGABadgeView-Android",
+            "stars": 2637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "Path android-pathview 绘制路径或 SVG，可设置动画 2.8k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29536194,
+            "language": "Java",
+            "last_commit": "2022-01-23T05:21:50Z",
+            "owner": "geftimov",
+            "repo": "android-pathview",
+            "stars": 2891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "Path RichPath Android 路径绘制 2k 5月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 96518561,
+            "language": "Kotlin",
+            "last_commit": "2021-10-08T09:59:51Z",
+            "owner": "tarek360",
+            "repo": "RichPath",
+            "stars": 2333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 AndroidSlidingUpPanel 上拉面板 9k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10410764,
+            "language": "Java",
+            "last_commit": "2022-07-21T00:21:03Z",
+            "owner": "umano",
+            "repo": "AndroidSlidingUpPanel",
+            "stars": 9448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 AppIntro 欢迎页 9.3k 20天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159112102,
+            "language": null,
+            "last_commit": "2026-02-18T08:33:18Z",
+            "owner": "apl-devs",
+            "repo": "AppIntro",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 Android-Bootstrap UI框架 7.1k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14046563,
+            "language": "Java",
+            "last_commit": "2021-09-02T06:14:15Z",
+            "owner": "Bearded-Hen",
+            "repo": "Android-Bootstrap",
+            "stars": 7219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 emojicon 表情文本 3.6k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16025084,
+            "language": "Java",
+            "last_commit": "2020-06-13T00:51:58Z",
+            "owner": "rockerhieu",
+            "repo": "emojicon",
+            "stars": 3594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 RippleEffect 水波纹效果 4.9k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25208398,
+            "language": "Java",
+            "last_commit": "2021-02-04T10:54:44Z",
+            "owner": "traex",
+            "repo": "RippleEffect",
+            "stars": 4892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 InfiniteCycleViewPager ViewPager 5.6k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66252037,
+            "language": "Java",
+            "last_commit": "2022-08-09T20:20:47Z",
+            "owner": "Devlight",
+            "repo": "InfiniteCycleViewPager",
+            "stars": 5685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 LoadingDrawable 酷炫的加载动画 3.9k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56371551,
+            "language": "Java",
+            "last_commit": "2017-04-13T09:50:48Z",
+            "owner": "dinuscxj",
+            "repo": "LoadingDrawable",
+            "stars": 4096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 QMUI_Android 提高 UI 开发效率的 UI 库 12k 15天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88970564,
+            "language": "Java",
+            "last_commit": "2024-11-05T06:18:02Z",
+            "owner": "Tencent",
+            "repo": "QMUI_Android",
+            "stars": 14485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI",
+          "description": "其他 folding-cell-android 折叠控件 4.7k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55228103,
+            "language": "Java",
+            "last_commit": "2022-09-21T05:01:27Z",
+            "owner": "Ramotion",
+            "repo": "folding-cell-android",
+            "stars": 4880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "网络",
+          "description": "框架 retrofit 网络框架 36k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 892275,
+            "language": "Java",
+            "last_commit": "2026-08-23T02:00:28Z",
+            "owner": "lysine-dev",
+            "repo": "retrofit",
+            "stars": 43933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "网络",
+          "description": "框架 okhttp 网络框架 38k 7天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5152285,
+            "language": "Kotlin",
+            "last_commit": "2026-08-23T02:23:05Z",
+            "owner": "lysine-dev",
+            "repo": "okhttp",
+            "stars": 47049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "网络",
+          "description": "框架 volley 网络框架 2.8k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79936381,
+            "language": "Java",
+            "last_commit": "2026-08-19T22:04:08Z",
+            "owner": "google",
+            "repo": "volley",
+            "stars": 3421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "网络",
+          "description": "框架 Java-WebSocket WebSocket 框架 7.1k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481412,
+            "language": "Java",
+            "last_commit": "2026-01-13T21:24:14Z",
+            "owner": "TooTallNate",
+            "repo": "Java-WebSocket",
+            "stars": 10806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "网络",
+          "description": "文件下载 FileDownloader 文件下载引擎 9.7k 8月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48427914,
+            "language": "Java",
+            "last_commit": "2024-08-04T01:25:26Z",
+            "owner": "lingochamp",
+            "repo": "FileDownloader",
+            "stars": 11123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "网络",
+          "description": "文件下载 PRDownloader 文件下载引擎 2.6k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110373758,
+            "language": "Java",
+            "last_commit": "2026-01-28T09:26:37Z",
+            "owner": "amitshekhariitbhu",
+            "repo": "PRDownloader",
+            "stars": 3391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "网络",
+          "description": "文件下载 okdownload 文件下载引擎 3.7k 7月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114520717,
+            "language": "Java",
+            "last_commit": "2022-11-04T04:02:49Z",
+            "owner": "lingochamp",
+            "repo": "okdownload",
+            "stars": 5244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "网络",
+          "description": "进度监听 ProgressManager okhttp 上传下载进度监听 2.3k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93503295,
+            "language": "Java",
+            "last_commit": "2022-07-26T21:54:16Z",
+            "owner": "JessYanCoding",
+            "repo": "ProgressManager",
+            "stars": 2716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "框架 glide 图片框架 30k 2天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11267509,
+            "language": "Java",
+            "last_commit": "2026-08-20T17:51:21Z",
+            "owner": "bumptech",
+            "repo": "glide",
+            "stars": 35025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "框架 Android-Universal-Image-Loader 图片框架 17k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2862290,
+            "language": "Java",
+            "last_commit": "2024-08-15T11:03:23Z",
+            "owner": "nostra13",
+            "repo": "Android-Universal-Image-Loader",
+            "stars": 16827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "框架 picasso 图片框架 18k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10057936,
+            "language": "Kotlin",
+            "last_commit": "2024-11-06T03:35:18Z",
+            "owner": "square",
+            "repo": "picasso",
+            "stars": 18796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "框架 fresco 图片框架 16k 2天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31533997,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T11:07:54Z",
+            "owner": "facebook",
+            "repo": "fresco",
+            "stars": 17159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "压缩 Luban 最接近朋友圈的图片压缩算法 12k 11月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64054478,
+            "language": "C",
+            "last_commit": "2026-01-19T12:05:40Z",
+            "owner": "Curzibn",
+            "repo": "Luban",
+            "stars": 13762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "转换 glide-transformations Glide 图像转换器 8.8k 5月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29012058,
+            "language": "Java",
+            "last_commit": "2022-03-08T16:07:21Z",
+            "owner": "wasabeef",
+            "repo": "glide-transformations",
+            "stars": 9884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "滤镜 android-gpuimage 图像滤镜框架 7.3k 11月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6072443,
+            "language": "Java",
+            "last_commit": "2022-08-03T16:07:30Z",
+            "owner": "wasabeef",
+            "repo": "android-gpuimage",
+            "stars": 9155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "选择器 Matisse 图片视频选择器 11k 8月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88111990,
+            "language": "Java",
+            "last_commit": "2023-05-15T09:55:57Z",
+            "owner": "zhihu",
+            "repo": "Matisse",
+            "stars": 12513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "选择器 TakePhoto 图片选择 / 剪裁 / 压缩 7k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40157995,
+            "language": "Java",
+            "last_commit": "2019-08-26T09:42:27Z",
+            "owner": "crazycodeboy",
+            "repo": "TakePhoto",
+            "stars": 7216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "选择器 PhotoPicker 仿微信图片选择器 2.8k 7月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38061986,
+            "language": "Java",
+            "last_commit": "2023-12-19T09:31:14Z",
+            "owner": "donglua",
+            "repo": "PhotoPicker",
+            "stars": 2806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图片",
+          "description": "文字识别 tess-two Android 图片文字识别[详细] 3.5k 9月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2581357,
+            "language": "C",
+            "last_commit": "2022-03-17T11:24:00Z",
+            "owner": "rmtheis",
+            "repo": "tess-two",
+            "stars": 3764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "视频",
+          "description": "播放器 JieCaoVideoPlayer 节操视频播放器 10k 7月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 51199322,
+            "language": "Java",
+            "last_commit": "2020-09-14T19:02:20Z",
+            "owner": "lipangit",
+            "repo": "JiaoZiVideoPlayer",
+            "stars": 10480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "视频",
+          "description": "播放器 ijkplayer Bilibili 开源播放器 27k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10446890,
+            "language": "C",
+            "last_commit": "2024-08-13T00:53:33Z",
+            "owner": "bilibili",
+            "repo": "ijkplayer",
+            "stars": 33196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "视频",
+          "description": "播放器 GSYVideoPlayer 多功能视频播放器 15k 10天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73614722,
+            "language": "Java",
+            "last_commit": "2026-08-19T12:56:47Z",
+            "owner": "CarGuo",
+            "repo": "GSYVideoPlayer",
+            "stars": 21473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "AE lottie-android 展示 AE 工具所作动画的框架 29k 29天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70198875,
+            "language": "Java",
+            "last_commit": "2026-02-15T22:03:57Z",
+            "owner": "airbnb",
+            "repo": "lottie-android",
+            "stars": 35709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "转场 Material-Animations 安卓转场动画演示 13k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31865176,
+            "language": "Java",
+            "last_commit": "2019-04-02T15:42:38Z",
+            "owner": "lgvalle",
+            "repo": "Material-Animations",
+            "stars": 13544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "View AndroidViewAnimations 安卓视图动画合集 11k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21113349,
+            "language": "Java",
+            "last_commit": "2021-08-18T23:15:07Z",
+            "owner": "daimajia",
+            "repo": "AndroidViewAnimations",
+            "stars": 12444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "View AVLoadingIndicatorView 安卓动画合集 9.3k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44883053,
+            "language": "Java",
+            "last_commit": "2023-04-06T06:05:06Z",
+            "owner": "HarlonWang",
+            "repo": "AVLoadingIndicatorView",
+            "stars": 9745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "Loading Android-SpinKit 安卓 Loading 动画 7.4k 11月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54308113,
+            "language": "Java",
+            "last_commit": "2023-05-28T14:27:04Z",
+            "owner": "ybq",
+            "repo": "Android-SpinKit",
+            "stars": 8634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "多种 animate 多种动画效果 3.1k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46282096,
+            "language": "Java",
+            "last_commit": "2016-05-26T12:33:05Z",
+            "owner": "hitherejoe",
+            "repo": "animate",
+            "stars": 3070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "列表 recyclerview-animators RecyclerView 条目动画 10k 4月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28340997,
+            "language": "Kotlin",
+            "last_commit": "2023-12-30T20:00:42Z",
+            "owner": "wasabeef",
+            "repo": "recyclerview-animators",
+            "stars": 11545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "粒子 Grav 粒子动画效果 2.6k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86901323,
+            "language": "Java",
+            "last_commit": "2017-08-25T09:26:23Z",
+            "owner": "glomadrian",
+            "repo": "Grav",
+            "stars": 2684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "爆炸 ExplosionField 爆裂动画效果 3.5k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42997176,
+            "language": "Java",
+            "last_commit": "2017-01-17T08:06:52Z",
+            "owner": "tyrantgit",
+            "repo": "ExplosionField",
+            "stars": 3574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "动画",
+          "description": "兼容 Transitions-Everywhere Transitions API 的兼容补丁 4.7k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25237608,
+            "language": "Java",
+            "last_commit": "2020-04-08T09:39:05Z",
+            "owner": "andkulikov",
+            "repo": "Transitions-Everywhere",
+            "stars": 4781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "异步",
+          "description": "链式 RxJava 事件驱动的基于异步数据流的编程模式 43k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7508411,
+            "language": "Java",
+            "last_commit": "2026-08-24T05:34:22Z",
+            "owner": "ReactiveX",
+            "repo": "RxJava",
+            "stars": 48204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "异步",
+          "description": "链式 RxAndroid Android 中的 RxJava 绑定 19k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23095954,
+            "language": "Java",
+            "last_commit": "2026-08-05T12:08:09Z",
+            "owner": "ReactiveX",
+            "repo": "RxAndroid",
+            "stars": 19933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "异步",
+          "description": "链式 agera 谷歌开发的安卓链式编程框架 7.3k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 48175620,
+            "language": "Java",
+            "last_commit": "2022-01-13T14:58:57Z",
+            "owner": "google",
+            "repo": "agera",
+            "stars": 7127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "数据库",
+          "description": "轻量级 realm-java 轻量级数据库 11k 4天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4084908,
+            "language": "Java",
+            "last_commit": "2025-09-15T18:19:00Z",
+            "owner": "realm",
+            "repo": "realm-java",
+            "stars": 11462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "数据库",
+          "description": "轻量级 greenDAO 轻量级数据库 12k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2626751,
+            "language": "Java",
+            "last_commit": "2024-04-30T05:30:59Z",
+            "owner": "greenrobot",
+            "repo": "greenDAO",
+            "stars": 12588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "文件",
+          "description": "选择器 Android-FilePicker 图片 / 文件选择器 2.2k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64612960,
+            "language": "Kotlin",
+            "last_commit": "2023-08-27T05:36:17Z",
+            "owner": "DroidNinja",
+            "repo": "Android-FilePicker",
+            "stars": 2701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json",
+          "description": "解析 gson 谷歌官方 Json 库 18k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32538871,
+            "language": "Java",
+            "last_commit": "2026-08-14T19:50:04Z",
+            "owner": "google",
+            "repo": "gson",
+            "stars": 24226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json",
+          "description": "解析 fastjson 阿里巴巴 Json 库 22k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2700474,
+            "language": "Java",
+            "last_commit": "2026-07-29T08:04:40Z",
+            "owner": "alibaba",
+            "repo": "fastjson",
+            "stars": 25598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "字体",
+          "description": "框架 Calligraphy 自定义字体库 8.5k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 15328210,
+            "language": "Java",
+            "last_commit": "2024-04-21T20:12:01Z",
+            "owner": "chrisjenx",
+            "repo": "Calligraphy",
+            "stars": 8521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "换肤",
+          "description": "框架 Android-Skin-Loader 换肤框架 2.5k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38356820,
+            "language": "Java",
+            "last_commit": "2021-02-20T06:52:16Z",
+            "owner": "fengjundev",
+            "repo": "Android-Skin-Loader",
+            "stars": 2912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "换肤",
+          "description": "框架 Android-skin-support 换肤框架 4.8k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78756870,
+            "language": "Java",
+            "last_commit": "2020-09-03T06:06:18Z",
+            "owner": "ximsfei",
+            "repo": "Android-skin-support",
+            "stars": 6508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "语言",
+          "description": "汉字处理 HanLP 中文分词 、关键词提取等 20k 23天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24976755,
+            "language": "Python",
+            "last_commit": "2025-11-15T23:08:17Z",
+            "owner": "hankcs",
+            "repo": "HanLP",
+            "stars": 36481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI",
+          "description": "深度学习 TensorFlow-android TensorFlow Android Demo 147k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45717250,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:09:17Z",
+            "owner": "tensorflow",
+            "repo": "tensorflow",
+            "stars": 197384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "卡顿 AndroidPerformanceMonitor 非侵入式性能监控组件[详细] 5.7k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49804293,
+            "language": "Java",
+            "last_commit": "2023-07-15T06:37:52Z",
+            "owner": "markzhai",
+            "repo": "AndroidPerformanceMonitor",
+            "stars": 6728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "卡顿 BlockCanaryEx UI 卡顿检测[详细] 2k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84085844,
+            "language": "Java",
+            "last_commit": "2017-08-23T03:29:40Z",
+            "owner": "seiginonakama",
+            "repo": "BlockCanaryEx",
+            "stars": 2172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "卡顿 AndroidDevMetrics 性能检测[详细] 1.5k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50488319,
+            "language": "Java",
+            "last_commit": "2019-04-26T09:57:34Z",
+            "owner": "frogermcs",
+            "repo": "AndroidDevMetrics",
+            "stars": 1530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "内存 leakcanary 检查内存泄漏工具 25k 23天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34824499,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T10:00:10Z",
+            "owner": "square",
+            "repo": "leakcanary",
+            "stars": 29984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "检测 Emmagee Android App 性能检测工具 2.2k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8001680,
+            "language": "Java",
+            "last_commit": "2018-03-16T06:53:02Z",
+            "owner": "NetEase",
+            "repo": "Emmagee",
+            "stars": 2374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "检测 matrix 微信研发的应用性能接入框架 7.4k 8月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161292091,
+            "language": "Java",
+            "last_commit": "2024-07-23T10:46:08Z",
+            "owner": "Tencent",
+            "repo": "matrix",
+            "stars": 12034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "生命周期 RxLifecycle 使用 RxJava 管理生命周期 7.5k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39385621,
+            "language": "Java",
+            "last_commit": "2023-03-23T15:41:20Z",
+            "owner": "trello-archive",
+            "repo": "RxLifecycle",
+            "stars": 7640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "缓存 DiskLruCache 硬盘缓存工具 5.4k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 3106696,
+            "language": "Java",
+            "last_commit": "2020-03-02T13:54:37Z",
+            "owner": "JakeWharton",
+            "repo": "DiskLruCache",
+            "stars": 5772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "性能",
+          "description": "UI框架 litho 高性能安卓 UI 的构建框架 6.8k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80179724,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T00:02:57Z",
+            "owner": "facebook",
+            "repo": "litho",
+            "stars": 7777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "热修复",
+          "description": "框架 tinker 微信热修复框架 15k 25天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67481986,
+            "language": "Java",
+            "last_commit": "2026-08-12T09:34:08Z",
+            "owner": "Tencent",
+            "repo": "tinker",
+            "stars": 17639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "热修复",
+          "description": "框架 dexposed 阿里热修复框架 4.3k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 38284404,
+            "language": "Java",
+            "last_commit": "2017-03-29T11:48:10Z",
+            "owner": "alibaba",
+            "repo": "dexposed",
+            "stars": 4504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "插件化",
+          "description": "框架 VirtualAPK 滴滴插件化框架 8k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 95750391,
+            "language": "Java",
+            "last_commit": "2023-07-13T22:06:36Z",
+            "owner": "didi",
+            "repo": "VirtualAPK",
+            "stars": 9051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "插件化",
+          "description": "框架 DroidPlugin 360 插件化框架 6.4k 7月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41482296,
+            "language": "Java",
+            "last_commit": "2024-06-06T02:32:38Z",
+            "owner": "DroidPluginTeam",
+            "repo": "DroidPlugin",
+            "stars": 6975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "插件化",
+          "description": "框架 dynamic-load-apk Apk动态加载框架 5.8k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18263026,
+            "language": "Java",
+            "last_commit": "2024-07-16T17:56:54Z",
+            "owner": "singwhatiwanna",
+            "repo": "dynamic-load-apk",
+            "stars": 6001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "插件化",
+          "description": "框架 atlas 阿里插件化框架 7.7k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83398100,
+            "language": "Java",
+            "last_commit": "2022-01-27T14:31:30Z",
+            "owner": "alibaba",
+            "repo": "atlas",
+            "stars": 8143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "插件化",
+          "description": "框架 Small 插件化框架 4.9k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46977130,
+            "language": "Java",
+            "last_commit": "2023-09-23T13:49:56Z",
+            "owner": "wequick",
+            "repo": "Small",
+            "stars": 5022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "插件化",
+          "description": "框架 RePlugin 插件化方案 6.4k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93732702,
+            "language": "Java",
+            "last_commit": "2025-09-16T07:26:17Z",
+            "owner": "Qihoo360",
+            "repo": "RePlugin",
+            "stars": 7338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "组件化",
+          "description": "框架 atlas 动态组件化框架 7.7k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83398100,
+            "language": "Java",
+            "last_commit": "2022-01-27T14:31:30Z",
+            "owner": "alibaba",
+            "repo": "atlas",
+            "stars": 8143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "虚拟化",
+          "description": "虚拟化 VirtualApp App虚拟化引擎 7k 15天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62722814,
+            "language": "Java",
+            "last_commit": "2026-08-04T07:51:55Z",
+            "owner": "asLody",
+            "repo": "VirtualApp",
+            "stars": 11070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "虚拟化",
+          "description": "虚拟化 VirtualXposed 非ROOT环境下运行Xposed模块的实现 10k 12天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112717963,
+            "language": "Java",
+            "last_commit": "2024-03-08T05:09:27Z",
+            "owner": "android-hacker",
+            "repo": "VirtualXposed",
+            "stars": 16053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "工具类 guava 谷歌核心 Java 类库 38k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20300177,
+            "language": "Java",
+            "last_commit": "2026-08-21T16:00:37Z",
+            "owner": "google",
+            "repo": "guava",
+            "stars": 51890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "工具类 AndroidUtilCode 安卓开发者不得不收集的代码 27k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64558143,
+            "language": "Java",
+            "last_commit": "2024-08-15T10:38:10Z",
+            "owner": "Blankj",
+            "repo": "AndroidUtilCode",
+            "stars": 33633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "工具类 android-common 不只是工具类的公共库 5k 5月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4710876,
+            "language": "Java",
+            "last_commit": "2026-03-25T17:04:15Z",
+            "owner": "Trinea",
+            "repo": "android-common",
+            "stars": 4997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "工具类 android-common 通用 / 辅助 / 工具类的集合 3.5k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20286858,
+            "language": "Java",
+            "last_commit": "2017-09-06T00:23:05Z",
+            "owner": "litesuits",
+            "repo": "android-common",
+            "stars": 3620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "工具类 Lazy 常用工具类整理 2.1k 11月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48537297,
+            "language": "Java",
+            "last_commit": "2025-07-02T05:24:22Z",
+            "owner": "l123456789jy",
+            "repo": "Lazy",
+            "stars": 2167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "列表 BaseRecyclerViewAdapterHelper RecyclerAdapter 框架 20k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55886798,
+            "language": "Kotlin",
+            "last_commit": "2026-06-26T16:18:38Z",
+            "owner": "CymChad",
+            "repo": "BaseRecyclerViewAdapterHelper",
+            "stars": 24577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "列表 baseAdapter Android 万能的 Adapter 4.5k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40102186,
+            "language": "Java",
+            "last_commit": "2021-10-13T10:21:40Z",
+            "owner": "hongyangAndroid",
+            "repo": "baseAdapter",
+            "stars": 4700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "列表 CarouselLayoutManager 传送带效果列表 2.1k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55052303,
+            "language": "Java",
+            "last_commit": "2021-06-02T04:16:14Z",
+            "owner": "Azoft",
+            "repo": "CarouselLayoutManager",
+            "stars": 2569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "列表 ChipsLayoutManager 流式布局列表 2.9k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64873196,
+            "language": "Java",
+            "last_commit": "2020-01-17T20:46:04Z",
+            "owner": "Oleg-Beloy",
+            "repo": "ChipsLayoutManager",
+            "stars": 3279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "状态栏 StatusBarUtil 设置状态栏的工具库 8.4k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51727325,
+            "language": "Java",
+            "last_commit": "2022-06-24T09:55:37Z",
+            "owner": "laobie",
+            "repo": "StatusBarUtil",
+            "stars": 8745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工具",
+          "description": "状态栏 SystemBarTint 状态栏着色工具 5.4k 6年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14466432,
+            "language": "Java",
+            "last_commit": "2015-09-05T09:30:48Z",
+            "owner": "jgilfelt",
+            "repo": "SystemBarTint",
+            "stars": 5316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "通信",
+          "description": "事件 EventBus Android 事件总线 23k 5月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5070389,
+            "language": "Java",
+            "last_commit": "2024-02-21T18:18:34Z",
+            "owner": "greenrobot",
+            "repo": "EventBus",
+            "stars": 24719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "通信",
+          "description": "路由 ARouter 辅助组件化改造的框架 12k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76413186,
+            "language": "Java",
+            "last_commit": "2023-09-11T06:07:41Z",
+            "owner": "alibaba",
+            "repo": "ARouter",
+            "stars": 14459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "键盘",
+          "description": "表情 XhsEmoticonsKeyboard 表情键盘解决方案 2.8k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31748893,
+            "language": "Java",
+            "last_commit": "2019-05-17T10:29:14Z",
+            "owner": "w446108264",
+            "repo": "XhsEmoticonsKeyboard",
+            "stars": 2833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "键盘",
+          "description": "冲突 JKeyboardPanelSwitch 解决键盘面板冲突 3.9k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38385659,
+            "language": "Java",
+            "last_commit": "2020-08-18T05:13:02Z",
+            "owner": "Jacksgong",
+            "repo": "JKeyboardPanelSwitch",
+            "stars": 4171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "扫描",
+          "description": "二维码 zxing 二维码扫描 26k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2562751,
+            "language": "Java",
+            "last_commit": "2026-08-24T12:12:03Z",
+            "owner": "zxing",
+            "repo": "zxing",
+            "stars": 34077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "注解",
+          "description": "框架 androidannotations 快速开发框架 11k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 3116751,
+            "language": "Java",
+            "last_commit": "2022-05-31T13:16:38Z",
+            "owner": "androidannotations",
+            "repo": "androidannotations",
+            "stars": 10977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "注解",
+          "description": "绑定 butterknife 为 Android View 设计的绑定注解 25k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8575137,
+            "language": "Java",
+            "last_commit": "2023-09-02T07:41:30Z",
+            "owner": "JakeWharton",
+            "repo": "butterknife",
+            "stars": 25349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "注解",
+          "description": "注入 dagger2 Android 依赖注入框架 15k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7968417,
+            "language": "Java",
+            "last_commit": "2026-08-23T20:05:20Z",
+            "owner": "google",
+            "repo": "dagger",
+            "stars": 17702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "权限",
+          "description": "请求 PermissionsDispatcher 基于注解处理权限请求 10k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40786751,
+            "language": "Java",
+            "last_commit": "2023-11-10T04:44:43Z",
+            "owner": "permissions-dispatcher",
+            "repo": "PermissionsDispatcher",
+            "stars": 11158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "权限",
+          "description": "请求 RxPermissions 基于 RxJava 处理权限请求 9.7k 11天",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 43370610,
+            "language": "Java",
+            "last_commit": "2022-05-11T09:47:47Z",
+            "owner": "tbruyelle",
+            "repo": "RxPermissions",
+            "stars": 10404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "权限",
+          "description": "请求 AndPermission 权限管理 6.3k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67911698,
+            "language": "Java",
+            "last_commit": "2024-01-04T06:43:43Z",
+            "owner": "yanzhenjie",
+            "repo": "AndPermission",
+            "stars": 6624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "响应式",
+          "description": "UI RxBinding 安卓 UI 响应式编程 9.5k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 32775739,
+            "language": "Kotlin",
+            "last_commit": "2021-11-18T17:51:21Z",
+            "owner": "JakeWharton",
+            "repo": "RxBinding",
+            "stars": 9569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "响应式",
+          "description": "事件 otto 事件总线框架 5.2k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4812336,
+            "language": "Java",
+            "last_commit": "2018-12-17T16:07:14Z",
+            "owner": "square",
+            "repo": "otto",
+            "stars": 5113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hybrid",
+          "description": "框架 JsBridge Android 与 JavaScript 互调桥梁 7.9k 8月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31365325,
+            "language": "Java",
+            "last_commit": "2025-06-13T06:15:49Z",
+            "owner": "happydog-intj",
+            "repo": "JsBridge",
+            "stars": 9907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hybrid",
+          "description": "框架 VasSonic 轻量级高性能的 hybrid 框架 11k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98978879,
+            "language": "Java",
+            "last_commit": "2023-04-07T11:37:52Z",
+            "owner": "Tencent",
+            "repo": "VasSonic",
+            "stars": 11852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hook",
+          "description": "框架 epic 运行时 AOP Hook 框架 2.3k 8月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92005100,
+            "language": "Java",
+            "last_commit": "2023-07-22T14:04:07Z",
+            "owner": "tiann",
+            "repo": "epic",
+            "stars": 4554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "崩溃",
+          "description": "报告 acra 崩溃信息收集框架 5.4k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5890835,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T06:00:26Z",
+            "owner": "ACRA",
+            "repo": "acra",
+            "stars": 6504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "崩溃",
+          "description": "处理 CustomActivityOnCrash 崩溃处理 3.1k 5月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21506502,
+            "language": "Java",
+            "last_commit": "2024-05-17T08:29:02Z",
+            "owner": "Ereza",
+            "repo": "CustomActivityOnCrash",
+            "stars": 3757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "崩溃",
+          "description": "预防 NullAway 检测 NullPointerExceptions 2.8k 8天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102137661,
+            "language": "Java",
+            "last_commit": "2026-08-23T23:19:29Z",
+            "owner": "uber",
+            "repo": "NullAway",
+            "stars": 4093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "框架",
+          "description": "MVP mosby MVP 框架 5.4k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32834215,
+            "language": "Java",
+            "last_commit": "2022-03-09T15:17:41Z",
+            "owner": "sockeqwe",
+            "repo": "mosby",
+            "stars": 5427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "框架",
+          "description": "多主题 MagicaSakura Android 多主题框架 3.4k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61786082,
+            "language": "Java",
+            "last_commit": "2022-02-16T08:39:50Z",
+            "owner": "bilibili",
+            "repo": "MagicaSakura",
+            "stars": 3534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "架构",
+          "description": "Clean Android-CleanArchitecture 一种清晰的 Android 架构 14k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23112526,
+            "language": "Java",
+            "last_commit": "2023-04-28T06:54:52Z",
+            "owner": "android10",
+            "repo": "Android-CleanArchitecture",
+            "stars": 15536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "架构",
+          "description": "Fragment Fragmentation 多 Fragment 架构的解决方案 9.5k 8月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52344952,
+            "language": "Java",
+            "last_commit": "2024-05-30T13:05:05Z",
+            "owner": "YoKeyword",
+            "repo": "Fragmentation",
+            "stars": 9675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "构建",
+          "description": "工具 buck 快速构建工具 7.5k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 9504214,
+            "language": "Java",
+            "last_commit": "2023-10-25T02:45:11Z",
+            "owner": "facebook",
+            "repo": "buck",
+            "stars": 8539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "编译",
+          "description": "工具 freeline 秒级编译方案 5.3k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64864962,
+            "language": "Java",
+            "last_commit": "2020-05-10T15:57:31Z",
+            "owner": "alibaba",
+            "repo": "freeline",
+            "stars": 5438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "编译",
+          "description": "工具 javassist Java 动态编译 2.8k 10天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10262364,
+            "language": "Java",
+            "last_commit": "2026-08-23T15:28:01Z",
+            "owner": "jboss-javassist",
+            "repo": "javassist",
+            "stars": 4228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "混淆",
+          "description": "工具 AndResGuard Android 资源混淆工具 6.9k 15天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44050066,
+            "language": "Java",
+            "last_commit": "2023-10-20T04:14:07Z",
+            "owner": "shwenzhang",
+            "repo": "AndResGuard",
+            "stars": 8644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "测试",
+          "description": "单元测试 robolectric Android 单元测试框架 5k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 867564,
+            "language": "Java",
+            "last_commit": "2026-08-24T08:24:40Z",
+            "owner": "robolectric",
+            "repo": "robolectric",
+            "stars": 6040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "测试",
+          "description": "单元测试 mockito Android 单元测试框架 11k 3天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6207167,
+            "language": "Java",
+            "last_commit": "2026-08-10T18:54:33Z",
+            "owner": "mockito",
+            "repo": "mockito",
+            "stars": 15447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "测试",
+          "description": "单元测试 truth 谷歌的断言和命题框架 2.1k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1936771,
+            "language": "Java",
+            "last_commit": "2026-08-10T22:24:48Z",
+            "owner": "google",
+            "repo": "truth",
+            "stars": 2788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "调试",
+          "description": "框架 stetho Android 开发调试神器 12k 9月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 29703871,
+            "language": "Java",
+            "last_commit": "2024-10-26T03:44:45Z",
+            "owner": "facebook",
+            "repo": "stetho",
+            "stars": 12655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "调试",
+          "description": "日志 logger 简单实用漂亮的日志打印框架 12k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32610336,
+            "language": "Java",
+            "last_commit": "2022-09-14T10:04:00Z",
+            "owner": "orhanobut",
+            "repo": "logger",
+            "stars": 13841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "调试",
+          "description": "数据库 Android-Debug-Database Android 数据库调试工具 7.4k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73927383,
+            "language": "Java",
+            "last_commit": "2026-02-05T09:09:32Z",
+            "owner": "amitshekhariitbhu",
+            "repo": "Android-Debug-Database",
+            "stars": 8678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "调试",
+          "description": "方法 hugo 方法调试工具 7.4k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14681168,
+            "language": "Java",
+            "last_commit": "2022-01-05T11:19:51Z",
+            "owner": "JakeWharton",
+            "repo": "hugo",
+            "stars": 7887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "调试",
+          "description": "UI UETool UE调试工具 2.9k 2天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133632841,
+            "language": "Java",
+            "last_commit": "2022-11-01T08:08:23Z",
+            "owner": "eleme",
+            "repo": "UETool",
+            "stars": 3261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "调试",
+          "description": "工具 pandora 调试工具箱 1.3k 4月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138896595,
+            "language": "Java",
+            "last_commit": "2023-11-01T08:35:58Z",
+            "owner": "whataa",
+            "repo": "pandora",
+            "stars": 1494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "反编译",
+          "description": "工具 Apktool 反编译 APK 工具 10k 7天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3766706,
+            "language": "Java",
+            "last_commit": "2026-08-24T11:01:21Z",
+            "owner": "iBotPeaches",
+            "repo": "Apktool",
+            "stars": 25360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "反编译",
+          "description": "工具 android-classyshark APK 分析利器 6.4k 9月",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 44109745,
+            "language": "Java",
+            "last_commit": "2023-05-19T10:01:03Z",
+            "owner": "google",
+            "repo": "android-classyshark",
+            "stars": 7558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demo",
+          "description": "Rxjava RxJava-Android-Samples 学习 Android 中 Rxjava 7.2k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22132512,
+            "language": "Java",
+            "last_commit": "2023-08-08T02:18:57Z",
+            "owner": "kaushikgopal",
+            "repo": "RxJava-Android-Samples",
+            "stars": 7492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demo",
+          "description": "Dagger u2020 Dagger 高级教学示例 APP 5.7k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14393731,
+            "language": "Java",
+            "last_commit": "2023-05-28T12:22:30Z",
+            "owner": "JakeWharton",
+            "repo": "u2020",
+            "stars": 5619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demo",
+          "description": "MVP androidmvp Android 端 MVP 设计 APP 5.9k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 18355892,
+            "language": "Java",
+            "last_commit": "2023-06-25T07:36:42Z",
+            "owner": "antoniolg",
+            "repo": "androidmvp",
+            "stars": 5896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demo",
+          "description": "框架 android-architecture-components Architecture Component 官方演示 18k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 90792131,
+            "language": "Kotlin",
+            "last_commit": "2024-12-06T00:06:51Z",
+            "owner": "android",
+            "repo": "architecture-components-samples",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demo",
+          "description": "测试 android-testing 集成四大自动化测试框架的 Demo 7.5k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25062303,
+            "language": "Java",
+            "last_commit": "2025-07-18T16:19:23Z",
+            "owner": "android",
+            "repo": "testing-samples",
+            "stars": 9292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demo",
+          "description": "设计模式 java-design-patterns java设计模式指南(英文 59k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22790488,
+            "language": "Java",
+            "last_commit": "2026-08-17T22:42:48Z",
+            "owner": "iluwatar",
+            "repo": "java-design-patterns",
+            "stars": 94609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "仿造 bilibili-android-client 高仿哔哩哔哩动画安卓客户端 4.3k 7月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60145667,
+            "language": "Java",
+            "last_commit": "2021-03-17T10:25:18Z",
+            "owner": "HotBitmapGG",
+            "repo": "bilibili-android-client",
+            "stars": 4469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "播放器 android-UniversalMusicPlayer 谷歌教科书级音乐播放器 12k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 31929346,
+            "language": "Kotlin",
+            "last_commit": "2026-01-09T15:17:00Z",
+            "owner": "android",
+            "repo": "uamp",
+            "stars": 13175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "播放器 ExoPlayer 谷歌出品可扩展媒体播放器 16k 24天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20818126,
+            "language": "Java",
+            "last_commit": "2025-12-23T16:39:03Z",
+            "owner": "google",
+            "repo": "ExoPlayer",
+            "stars": 21931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "播放器 Timber 音乐播放器 6.2k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37333214,
+            "language": "Java",
+            "last_commit": "2023-04-28T07:13:46Z",
+            "owner": "naman14",
+            "repo": "Timber",
+            "stars": 7039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "播放器 ListenerMusicPlayer 开源音乐播放器 2.3k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81436215,
+            "language": "Java",
+            "last_commit": "2017-03-31T08:55:34Z",
+            "owner": "hefuyicoder",
+            "repo": "ListenerMusicPlayer",
+            "stars": 2392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "相机 cameraview 安卓相机 4.7k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 64904916,
+            "language": "Java",
+            "last_commit": "2020-02-08T13:20:53Z",
+            "owner": "google",
+            "repo": "cameraview",
+            "stars": 4705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "相机 camera-samples 安卓相机 API 使用 Demo 1.9k 29天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185094070,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T18:50:56Z",
+            "owner": "android",
+            "repo": "camera-samples",
+            "stars": 5452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "相机 UVCCamera 安卓 UVC 相机 1.8k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19403028,
+            "language": "C",
+            "last_commit": "2021-12-14T13:26:26Z",
+            "owner": "saki4510t",
+            "repo": "UVCCamera",
+            "stars": 3219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "新闻 AndroidFire 新闻阅读 App 框架 2.5k 11月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69235642,
+            "language": "Java",
+            "last_commit": "2019-08-17T06:46:09Z",
+            "owner": "jaydenxiao2016",
+            "repo": "AndroidFire",
+            "stars": 2638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "新闻 GeekNews 涵盖最常用主流框架的阅读应用 3.5k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65138856,
+            "language": "Java",
+            "last_commit": "2018-08-25T11:26:10Z",
+            "owner": "codeestX",
+            "repo": "GeekNews",
+            "stars": 3491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "翻译 TranslateApp 咕咚翻译 APP 1.7k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 52582821,
+            "language": "Java",
+            "last_commit": "2019-12-11T02:27:27Z",
+            "owner": "maoruibin",
+            "repo": "TranslateApp",
+            "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "MVP MvpApp MVP 架构学习 App 2.3k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66072861,
+            "language": "Java",
+            "last_commit": "2017-05-31T09:06:24Z",
+            "owner": "Rukey7",
+            "repo": "MvpApp",
+            "stars": 2318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "教育 santa-tracker-android 谷歌开源的儿童教育和娱乐 App 2k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 32765638,
+            "language": "Java",
+            "last_commit": "2022-06-30T06:38:28Z",
+            "owner": "google",
+            "repo": "santa-tracker-android",
+            "stars": 2061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "壁纸 muzei 定时更换桌面精美壁纸 App 4.1k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16598287,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T03:59:07Z",
+            "owner": "muzei",
+            "repo": "muzei",
+            "stars": 4940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "安全 haven 利用设备传感器进行监控和保护 5.8k 7月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83506511,
+            "language": "Java",
+            "last_commit": "2022-10-26T22:43:24Z",
+            "owner": "guardianproject",
+            "repo": "haven",
+            "stars": 6813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APP",
+          "description": "工具 AndroidHttpCapture Android手机抓包软件 3.2k 4月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71009741,
+            "language": "Java",
+            "last_commit": "2026-05-07T15:24:24Z",
+            "owner": "JZ-Darkal",
+            "repo": "AndroidHttpCapture",
+            "stars": 4603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "面试",
+          "description": "指南 interviews 软件工程技术面试个人指南 46k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81975372,
+            "language": "Java",
+            "last_commit": "2025-05-12T12:56:04Z",
+            "owner": "kdn251",
+            "repo": "interviews",
+            "stars": 65227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "面试",
+          "description": "题库 AndroidInterview-Q-A 国内一线互联网公司内部面试题库 7.7k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63571529,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T06:23:48Z",
+            "owner": "JackyAndroid",
+            "repo": "AndroidInterview-Q-A",
+            "stars": 8006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "汇总 LearningNotes 学习笔记 12k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60711512,
+            "language": null,
+            "last_commit": "2024-08-13T17:24:18Z",
+            "owner": "francistao",
+            "repo": "LearningNotes",
+            "stars": 13132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "汇总 AndroidNote GcsSloop 个人学习笔记 7.9k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49030451,
+            "language": "Java",
+            "last_commit": "2024-03-18T08:17:39Z",
+            "owner": "GcsSloop",
+            "repo": "AndroidNote",
+            "stars": 9335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "汇总 Android_Data Android 学习资料收集 8.3k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33390523,
+            "language": "Java",
+            "last_commit": "2024-01-15T03:03:28Z",
+            "owner": "Freelander",
+            "repo": "Android_Data",
+            "stars": 8945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "汇总 AdvancedAndroid 一系列 Android 进阶文章 2.2k 9天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153777853,
+            "language": "Kotlin",
+            "last_commit": "2023-06-19T09:48:23Z",
+            "owner": "SusionSuc",
+            "repo": "AdvancedAndroid",
+            "stars": 2551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "翻译 android-tech-frontier 定期翻译国外安卓优质文章 10k 11月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32553922,
+            "language": null,
+            "last_commit": "2021-02-05T06:48:31Z",
+            "owner": "hehonghui",
+            "repo": "android-tech-frontier",
+            "stars": 10592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "源码分析 android-open-project-analysis Android 开源项目源码解析 6.6k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21133266,
+            "language": null,
+            "last_commit": "2019-10-15T15:40:21Z",
+            "owner": "android-cn",
+            "repo": "android-open-project-analysis",
+            "stars": 6571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "动画 Android-Animation-Set Android 所有动画系列详尽教程 2.1k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126421795,
+            "language": "Java",
+            "last_commit": "2023-02-21T03:10:49Z",
+            "owner": "OCNYang",
+            "repo": "Android-Animation-Set",
+            "stars": 3139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "设计 material-design-data Material Design 学习资料 1.8k 9月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76563331,
+            "language": "Java",
+            "last_commit": "2023-03-16T17:24:28Z",
+            "owner": "Luosunce",
+            "repo": "material-design-data",
+            "stars": 1904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "RxJava Awesome-RxJava RxJava 学习资源 4.8k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38344704,
+            "language": null,
+            "last_commit": "2021-05-26T03:29:34Z",
+            "owner": "happydog-intj",
+            "repo": "Awesome-RxJava",
+            "stars": 4804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "正则 learn-regex 轻松学习正则 36k 19天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98029592,
+            "language": null,
+            "last_commit": "2025-08-25T23:17:54Z",
+            "owner": "ziishaned",
+            "repo": "learn-regex",
+            "stars": 46088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "算法 awesome-java-leetcode 学习数据结构和算法、刷 LeetCode 7.6k 15天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88524149,
+            "language": "Java",
+            "last_commit": "2020-12-10T15:20:21Z",
+            "owner": "Blankj",
+            "repo": "awesome-java-leetcode",
+            "stars": 8692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "算法 algorithm-visualizer 交互式算法学习 31k 8月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58836534,
+            "language": "JavaScript",
+            "last_commit": "2024-06-09T06:54:22Z",
+            "owner": "algorithm-visualizer",
+            "repo": "algorithm-visualizer",
+            "stars": 48690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "ADB awesome-adb ADB 用法大全 7.3k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63659739,
+            "language": null,
+            "last_commit": "2024-12-18T09:31:14Z",
+            "owner": "mzlogin",
+            "repo": "awesome-adb",
+            "stars": 12430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "编程 free-programming-books 编程语言学习 154k 6天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13491895,
+            "language": "Python",
+            "last_commit": "2026-08-18T14:16:15Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 395133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "学习",
+          "description": "设计 system-design-primer 系统设计入门 102k 5天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83222441,
+            "language": "Python",
+            "last_commit": "2026-03-20T01:52:19Z",
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 365720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 Android GitHub 上最火的 Android 开源项目 10k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82128465,
+            "language": null,
+            "last_commit": "2024-04-28T13:31:56Z",
+            "owner": "open-android",
+            "repo": "Android",
+            "stars": 15339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 awesome-java Java框架、库与软件合集 25k 4天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21648001,
+            "language": null,
+            "last_commit": "2026-08-24T00:59:50Z",
+            "owner": "akullpp",
+            "repo": "awesome-java",
+            "stars": 48835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 awesome-android Android 实用资源合集 7.9k 7月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21780562,
+            "language": null,
+            "last_commit": "2025-10-27T08:14:07Z",
+            "owner": "JStumpp",
+            "repo": "awesome-android",
+            "stars": 12296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 awesome-android-ui Android 好用的 UI 合集 38k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28428729,
+            "language": null,
+            "last_commit": "2026-06-05T05:39:52Z",
+            "owner": "wasabeef",
+            "repo": "awesome-android-ui",
+            "stars": 57322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 Awesome-MaterialDesign Material Design 资源合集 5.9k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26414854,
+            "language": null,
+            "last_commit": "2018-01-06T10:37:47Z",
+            "owner": "lightSky",
+            "repo": "Awesome-MaterialDesign",
+            "stars": 5864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 AndroidLibs Android 开源代码大全 6.5k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45383990,
+            "language": null,
+            "last_commit": "2020-04-20T03:29:39Z",
+            "owner": "ColorfulCat",
+            "repo": "AndroidLibs",
+            "stars": 7989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 awesome-android-tips 收集常用的 Android 代码 2.5k 2月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43930264,
+            "language": null,
+            "last_commit": "2022-03-02T01:24:41Z",
+            "owner": "jiang111",
+            "repo": "awesome-android-tips",
+            "stars": 2567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 TimLiu-Android Android 开源项目及库总结 2.8k 11月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27805683,
+            "language": null,
+            "last_commit": "2019-08-19T15:36:54Z",
+            "owner": "Tim9Liu9",
+            "repo": "TimLiu-Android",
+            "stars": 3053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 android-open-project Android 开源项目分类汇总 30k 5月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15653276,
+            "language": null,
+            "last_commit": "2026-03-25T01:04:16Z",
+            "owner": "Trinea",
+            "repo": "android-open-project",
+            "stars": 31818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 android-architecture 谷歌关于架构的示例合集 37k 5月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51148780,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T07:34:23Z",
+            "owner": "android",
+            "repo": "architecture-samples",
+            "stars": 45801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 JavaGuide Java 学习+面试指南 85k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132464395,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T09:08:16Z",
+            "owner": "Snailclimb",
+            "repo": "JavaGuide",
+            "stars": 157995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 advanced-java Java 进阶知识完全扫盲 46k 4天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151834062,
+            "language": "Java",
+            "last_commit": "2026-08-24T12:26:20Z",
+            "owner": "doocs",
+            "repo": "advanced-java",
+            "stars": 79076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "大全 AndroidDevTools 整理Android开发所需的各种工具 6.8k 1月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21295365,
+            "language": null,
+            "last_commit": "2026-08-21T06:22:44Z",
+            "owner": "inferjay",
+            "repo": "AndroidDevTools",
+            "stars": 8056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "交流 android-discuss Android 问题交流讨论坛 4k 4年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31894946,
+            "language": null,
+            "last_commit": "2023-07-25T18:26:27Z",
+            "owner": "android-cn",
+            "repo": "android-discuss",
+            "stars": 4061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "AS插件 TranslationPlugin AS 翻译插件 6k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60159997,
+            "language": "Kotlin",
+            "last_commit": "2026-08-23T17:14:31Z",
+            "owner": "YiiGuxing",
+            "repo": "TranslationPlugin",
+            "stars": 11827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "AS插件 AndroidWiFiADB AS Wifi ADB 插件 4.1k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 44498352,
+            "language": "Java",
+            "last_commit": "2019-05-23T10:17:28Z",
+            "owner": "pedrovgs",
+            "repo": "AndroidWiFiADB",
+            "stars": 4137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其他",
+          "description": "API public-apis 公共 API 接口 90k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54346799,
+            "language": "Python",
+            "last_commit": "2026-08-19T21:44:19Z",
+            "owner": "public-apis",
+            "repo": "public-apis",
+            "stars": 469631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "APP PocketHub Android 版 Github 9.5k 3月",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2349728,
+            "language": "Java",
+            "last_commit": "2023-06-06T08:03:11Z",
+            "owner": "pockethub",
+            "repo": "PocketHub",
+            "stars": 9361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "APP ActivityTracker 查看当前栈顶 Activity 0.6k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77375451,
+            "language": "Java",
+            "last_commit": "2020-07-17T09:10:46Z",
+            "owner": "fashare2015",
+            "repo": "ActivityTracker",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "软件 lantern 翻墙利器 4.5k 15天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1380117,
+            "language": "Dart",
+            "last_commit": "2026-08-24T13:21:40Z",
+            "owner": "getlantern",
+            "repo": "lantern",
+            "stars": 15898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "APP shadowsocks-android 翻墙利器 30k 1天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7190986,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T11:06:54Z",
+            "owner": "shadowsocks",
+            "repo": "shadowsocks-android",
+            "stars": 36766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "APP battery-historian 电池耗电情况分析工具 4.6k 3年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 21052985,
+            "language": "Go",
+            "last_commit": "2019-07-15T16:25:16Z",
+            "owner": "google",
+            "repo": "battery-historian",
+            "stars": 5406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "软件 scrcpy 显示和控制连接的安卓设备 34k 16天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111583593,
+            "language": "C",
+            "last_commit": "2026-08-17T10:27:07Z",
+            "owner": "Genymobile",
+            "repo": "scrcpy",
+            "stars": 148168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "APP XposedInstaller Xposed 安装器 3k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 3911317,
+            "language": "Java",
+            "last_commit": "2023-05-26T01:14:08Z",
+            "owner": "rovo89",
+            "repo": "XposedInstaller",
+            "stars": 3980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "APP Magisk 系统修改 12k 2天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67702184,
+            "language": "Kotlin",
+            "last_commit": "2026-08-23T21:46:25Z",
+            "owner": "topjohnwu",
+            "repo": "Magisk",
+            "stars": 62407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "APP MagiskManager Magisk 管理器 1.1k 2年",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 65035159,
+            "language": "Java",
+            "last_commit": "2018-07-18T21:47:03Z",
+            "owner": "topjohnwu",
+            "repo": "MagiskManager",
+            "stars": 1596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "插件 EdXposed ART hook 框架 3k 18天",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166435804,
+            "language": "Java",
+            "last_commit": "2022-04-12T13:23:50Z",
+            "owner": "ElderDrivers",
+            "repo": "EdXposed",
+            "stars": 5666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "开发工具",
+          "description": "命令行 the-art-of-command-line 命令行使用技巧摘要 79k 1年",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35955666,
+            "language": null,
+            "last_commit": "2024-06-25T18:13:44Z",
+            "owner": "jlevy",
+            "repo": "the-art-of-command-line",
+            "stars": 162157
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/scwang90/SmartRefreshLayout",
+              "description": "博客地址：https://segmentfault.com/a/1190000010066071",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93152223,
+                "language": "Java",
+                "last_commit": "2024-12-04T12:28:17Z",
+                "owner": "scwang90",
+                "repo": "SmartRefreshLayout",
+                "stars": 25125
+              }
+            }
+          ],
+          "description": "下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的 Header 和 Footer。\nSmartRefreshLayout 是一个“聪明”或者“智能”的下拉刷新布局，由于它的“智能”，它不只是支持所有的 View，还支持多层嵌套的视图结构。它继承自 ViewGroup 而不是 FrameLayout 或 LinearLayout，提高了性能。 也吸取了现在流行的各种刷新布局的优点，包括谷歌官方的 SwipeRefreshLayout，其他第三方的 Ultra-Pull-To-Refresh、TwinklingRefreshLayout 。还集成了各种炫酷的 Header 和 Footer。",
+          "node_type": "group",
+          "title": "scwang90 / SmartRefreshLayout"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/alibaba/vlayout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 83285138,
+                "language": "Java",
+                "last_commit": "2021-07-14T04:40:34Z",
+                "owner": "alibaba",
+                "repo": "vlayout",
+                "stars": 10726
+              }
+            }
+          ],
+          "description": "VirtualLayout 是一个针对 RecyclerView 的 LayoutManager 扩展, 主要提供一整套布局方案和布局间的组件复用的问题。\n通过定制化的 LayoutManager，接管整个 RecyclerView 的布局逻辑；LayoutManager 管理了一系列 LayoutHelper，LayoutHelper 负责具体布局逻辑实现的地方；每一个 LayoutHelper 负责页面某一个范围内的组件布局；不同的 LayoutHelper 可以做不同的布局逻辑，因此可以在一个 RecyclerView 页面里提供异构的布局结构，这就能比系统自带的 LinearLayoutManager、aridLayoutManager 等提供更加丰富的能力。同时支持扩展 LayoutHelper 来提供更多的布局能力。",
+          "node_type": "group",
+          "title": "alibaba / vlayout"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/markzhai/AndroidPerformanceMonitor",
+              "description": "中文文档：https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49804293,
+                "language": "Java",
+                "last_commit": "2023-07-15T06:37:52Z",
+                "owner": "markzhai",
+                "repo": "AndroidPerformanceMonitor",
+                "stars": 6728
+              }
+            }
+          ],
+          "description": "AndroidPerformanceMonitor（被称作 BlockCanary）是一个Android平台的一个非侵入式的性能监控组件，应用只需要实现一个抽象类，提供一些该组件需要的上下文环境，就可以在平时使用应用的时候检测主线程上的各种卡慢问题，并通过组件提供的各种信息分析出原因并进行修复。\n取名为 BlockCanary 则是为了向 LeakCanary 致敬，顺便本库的 UI 部分是从 LeakCanary 改来的，之后可能会做一些调整。",
+          "node_type": "group",
+          "title": "markzhai / AndroidPerformanceMonitor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/seiginonakama/BlockCanaryEx",
+              "description": "中文文档：https://github.com/seiginonakama/BlockCanaryEx/blob/master/README_ZH.md",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84085844,
+                "language": "Java",
+                "last_commit": "2017-08-23T03:29:40Z",
+                "owner": "seiginonakama",
+                "repo": "BlockCanaryEx",
+                "stars": 2172
+              }
+            }
+          ],
+          "description": "记录主线程中执行的所有方法和它们的执行时间，当 app 卡顿时，将所有耗时方法直接展示给开发者，节省开发者定位卡顿问题的时间。 此项目基于 BlockCanary。\nBlockCanaryEx 和 BlockCanary 的区别如下：",
+          "node_type": "group",
+          "title": "seiginonakama / BlockCanaryEx"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/frogermcs/AndroidDevMetrics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50488319,
+                "language": "Java",
+                "last_commit": "2019-04-26T09:57:34Z",
+                "owner": "frogermcs",
+                "repo": "AndroidDevMetrics",
+                "stars": 1530
+              }
+            }
+          ],
+          "description": "AndroidDevMetrics（原先叫 dagger2metrics）是一个性能检测库，用来检测 Activity 生命周期方法执行性能（onCreate(), onStart(), onResume()）、帧速率性能和 Dagger 2 注入性能。它会告诉你在 app 中需要花多少时间来显示特定的界面，还有（如果你使用了Dagger 2）在依赖图表中提供每个对象消耗了多少时间。它不会告诉你性能问题或瓶颈的确切原因（目前！），但它可以指出你首先应该去查找的地方。",
+          "node_type": "group",
+          "title": "frogermcs / AndroidDevMetrics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/rmtheis/tess-two",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2581357,
+                "language": "C",
+                "last_commit": "2022-03-17T11:24:00Z",
+                "owner": "rmtheis",
+                "repo": "tess-two",
+                "stars": 3764
+              }
+            }
+          ],
+          "description": "文字识别一般都用的 Tesseract OCR ，它是由 Google 负责维护，是最好的开源 OCR Engine 之一，并且支持中文。不过因为 Tesseract 使用 C++ 实现的，在 Android 中不能直接使用，需要封装JavaAPI才能在Android平台中进行调用。\ntess-two 是 TesseraToolsForAndroid（tesseract-adroid-tools）的一个分支，它添加了一些额外功能。TesseraToolsForAndroid 包含了 Tesseract OCR 和 Leptonica 图片处理库的一整套 API 和 build 文件。",
+          "node_type": "group",
+          "title": "rmtheis / tess-two"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/huangyanbin/smartTable",
+              "description": "博客地址：https://juejin.im/post/5a55ae6c5188257350511a8c博客地址2：https://juejin.im/post/5a5dce7651882573256bd043博客地址3：https://juejin.im/post/5a7a8eef5188257a84621eda",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109910389,
+                "language": "Java",
+                "last_commit": "2022-03-11T09:08:26Z",
+                "owner": "huangyanbin",
+                "repo": "smartTable",
+                "stars": 5226
+              }
+            }
+          ],
+          "description": "Android 自动生成表格框架，支持二维数组展示，导入 Excel 表格，合并单元格等。还有很多功能点，包括动态添加首尾数据，分页，格式化字体，背景等。",
+          "node_type": "group",
+          "title": "huangyanbin / smartTable"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/GcsSloop/rclayout",
+              "description": "博客地址：http://www.gcssloop.com/gebug/rclayout",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105877297,
+                "language": "Java",
+                "last_commit": "2018-11-20T14:05:37Z",
+                "owner": "GcsSloop",
+                "repo": "rclayout",
+                "stars": 1977
+              }
+            }
+          ],
+          "description": "Android 通用圆角布局，快速实现圆角需求。可支持包裹任意组件、分别对每一个角设置圆角大小、设置描边宽度等很多方便的可配置属性，可以满足不同需求，功能强大，效果很棒。",
+          "node_type": "group",
+          "title": "GcsSloop / rclayout"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "项目地址：https://github.com/alibaba/ARouter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76413186,
+                "language": "Java",
+                "last_commit": "2023-09-11T06:07:41Z",
+                "owner": "alibaba",
+                "repo": "ARouter",
+                "stars": 14459
+              }
+            }
+          ],
+          "description": "一个用于帮助 Android App 进行组件化改造的框架 —— 支持模块间的路由、通信、解耦。",
+          "node_type": "group",
+          "title": "alibaba / ARouter"
+        }
+      ],
+      "title": "详细介绍"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T07:40:46.828Z",
+    "last_updated": "2026-08-24T14:10:33.581Z",
     "original_repository": "SenhLinsh/Android-Hot-Libraries",
     "original_repository_id": 101376617,
     "original_repository_sha": "251e2f66101e46a9f129f2fa9a7f3ebc4ea11f37",
