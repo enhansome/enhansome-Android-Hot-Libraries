@@ -192,7 +192,7 @@
             "archived": false,
             "id": 30120110,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T21:06:25Z",
+            "last_commit": "2026-08-25T06:21:59Z",
             "owner": "mikepenz",
             "repo": "MaterialDrawer",
             "stars": 11646
@@ -765,7 +765,7 @@
             "last_commit": "2021-04-03T23:18:57Z",
             "owner": "CameraKit",
             "repo": "blurkit-android",
-            "stars": 3759
+            "stars": 3760
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2026-08-23T02:23:05Z",
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47050
+            "stars": 47049
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33197
+            "stars": 33198
           }
         },
         {
@@ -1305,7 +1305,7 @@
             "last_commit": "2026-02-15T22:03:57Z",
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35709
+            "stars": 35710
           }
         },
         {
@@ -1455,7 +1455,7 @@
             "last_commit": "2026-08-24T05:34:22Z",
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48205
+            "stars": 48204
           }
         },
         {
@@ -1545,7 +1545,7 @@
             "last_commit": "2026-08-14T19:50:04Z",
             "owner": "google",
             "repo": "gson",
-            "stars": 24226
+            "stars": 24225
           }
         },
         {
@@ -1632,10 +1632,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-25T05:59:53Z",
+            "last_commit": "2026-08-25T07:26:46Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197613
+            "stars": 197614
           }
         },
         {
@@ -1692,7 +1692,7 @@
             "archived": false,
             "id": 34824499,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T10:00:10Z",
+            "last_commit": "2026-08-25T07:24:37Z",
             "owner": "square",
             "repo": "leakcanary",
             "stars": 29985
@@ -1950,7 +1950,7 @@
             "last_commit": "2026-08-24T21:31:37Z",
             "owner": "google",
             "repo": "guava",
-            "stars": 51890
+            "stars": 51887
           }
         },
         {
@@ -2217,7 +2217,7 @@
             "archived": false,
             "id": 7968417,
             "language": "Java",
-            "last_commit": "2026-08-23T20:05:20Z",
+            "last_commit": "2026-08-25T07:05:21Z",
             "owner": "google",
             "repo": "dagger",
             "stars": 17702
@@ -2655,7 +2655,7 @@
             "last_commit": "2026-08-24T11:01:21Z",
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25369
+            "stars": 25370
           }
         },
         {
@@ -2760,7 +2760,7 @@
             "last_commit": "2026-08-25T04:52:07Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94613
+            "stars": 94615
           }
         },
         {
@@ -3240,7 +3240,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395173
+            "stars": 395179
           }
         },
         {
@@ -3255,7 +3255,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365863
+            "stars": 365872
           }
         },
         {
@@ -3285,7 +3285,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48840
+            "stars": 48839
           }
         },
         {
@@ -3390,7 +3390,7 @@
             "last_commit": "2026-03-25T01:04:16Z",
             "owner": "Trinea",
             "repo": "android-open-project",
-            "stars": 31817
+            "stars": 31816
           }
         },
         {
@@ -3420,7 +3420,7 @@
             "last_commit": "2026-08-24T09:08:16Z",
             "owner": "Snailclimb",
             "repo": "JavaGuide",
-            "stars": 158008
+            "stars": 158009
           }
         },
         {
@@ -3510,7 +3510,7 @@
             "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 470009
+            "stars": 470049
           }
         },
         {
@@ -3552,7 +3552,7 @@
             "archived": false,
             "id": 1380117,
             "language": "Dart",
-            "last_commit": "2026-08-25T05:26:53Z",
+            "last_commit": "2026-08-25T07:10:20Z",
             "owner": "getlantern",
             "repo": "lantern",
             "stars": 15899
@@ -3600,7 +3600,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148202
+            "stars": 148204
           }
         },
         {
@@ -3630,7 +3630,7 @@
             "last_commit": "2026-08-24T18:49:40Z",
             "owner": "topjohnwu",
             "repo": "Magisk",
-            "stars": 62412
+            "stars": 62411
           }
         },
         {
@@ -3675,7 +3675,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162162
+            "stars": 162163
           }
         }
       ],
@@ -3887,7 +3887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:14.005Z",
+    "last_updated": "2026-08-25T07:27:10.026Z",
     "original_repository": "SenhLinsh/Android-Hot-Libraries",
     "original_repository_id": 101376617,
     "original_repository_sha": "251e2f66101e46a9f129f2fa9a7f3ebc4ea11f37",
